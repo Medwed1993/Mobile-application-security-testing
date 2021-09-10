@@ -16,10 +16,10 @@ This section is a collection of links to tools and tutorials that can be used to
 * Динамическое тестирование Андроид приложений https://habr.com/ru/post/432820/
 * Testing Tools https://github.com/OWASP/owasp-mstg/blob/master/Document/0x08-Testing-Tools.md
 
-##Telegram channels
-* [Библиотека хакера] (https://t.me/hackerlib)
-* [Эксплоит] (https://t.me/exploitex)
-* [Android Secuirty & Malware] (https://t.me/androidMalware)
+## Telegram channels
+* [Библиотека хакера](https://t.me/hackerlib)
+* [Эксплоит](https://t.me/exploitex)
+* [Android Secuirty & Malware](https://t.me/androidMalware)
 * [Mobile Apps Security Testing] (https://t.me/MobileSecurityTesting)
 
 ## Android
